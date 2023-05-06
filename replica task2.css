@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(109,151,115);
+}
+h1{
+    color: white;
+    position: absolute;
+    font-size:50px;
+    left:10%;
+    bottom:60%;
+    font-style: normal;
+}
+img{
+    position:absolute;
+    width:80%;
+    height:50%;
+    bottom:10%;
+    left: 10%;
+    object-fit: cover;
+}
+p{
+    color: white;
+    position: absolute;
+    font-size:large;
+    right:20%;
+    bottom:75%;
+    font-style: normal;
+}

@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(12,59,46);
+}
+h1{
+    color: white;
+    left:10%;
+    position: absolute;
+    font-size: 50px;
+    font-style: normal;
+    bottom: 75%;
+}
+img{
+    position: absolute;
+    left:50%;
+    height:100%;
+    width:50%;
+    object-fit: cover;
+    
+}
+p1{
+    color: white;
+    left:10%;
+    bottom:55%;
+    position: absolute;
+    font-size: larger;
+    font-style: normal;
+}
+p2{
+    color: white;
+    left:10%;
+    bottom:30%;
+    position: absolute;
+    font-size: larger;
+    font-style: normal;
+}
+button{
+    color:black;
+    left:10%;
+    bottom:15%;
+    position: absolute;
+    font-size:medium;
+    font-style: normal;
+    padding:8px;
+    border-radius:100px; /* creates a cylindrical shape button*/
+    background-color: rgb(255,186,0);
+}
